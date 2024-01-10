@@ -1,0 +1,8 @@
+{
+  "id": "tuzet2_meaningful_energy_colors",
+  "name": "Meaningful Energy Colors",
+  "author": "tuzet2",
+  "version": "0.1.0",
+  "description": "Assigns meaningful colors to energy weapons: Green: energy damage   Blue: EMP damage   White: Kinetic damage   Orange: High Explosive damage   Beige: Fragmentation damage   Dark Red: Point defense fire   Purple: Special (Tachyion and [Super Redacted]). This mod directly replaces .wpn files, ANY mod which changes .wpn files is likely incompatible. Supports Starsector, Ships and Weapons Pack, Mayasuran Navy, Fighter Expansion Rebalanced and Vayra's Ship Pack'",
+  "gameVersion": "0.96a-RC10",
+}

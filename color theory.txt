@@ -1,0 +1,17 @@
+//reasoning for colors
+
+ENERGY: tactical laser and pulse laser was choosen as the base, every weapon dealing mainly energy type damage gets their beam/projectile recolored as green
+
+KINETIC: ballistic kinetic projectiles are generally whiteish exceptions exist(HVD and gauss), so if you see them heading towards you, you can easily decide whether to take them on armor or shield
+
+HIGH EXPLOSIVE: just like kinetic ballistic projectiles, high explosives are of a uniform color: yellow, the shade of yellow used can be easily differentiated from kinetic ones, I will use orange to avoid similarities with fragmentation
+
+FRAGMENTATION: they now exist on vanilla too, I will use saturated beige because that color is similar to picture on the weapon ancillary data
+
+EMP: lets use mjölnir and ion beam as base: they are both blue and carry significant EMP damage, blue is also different from every color we have used
+
+SPECIAL: special weapons are characterised by being different from every other weapon([super redacted], tachyon beam and such), this significantly complicates our task, however they are powerful so you generally dont want to take them on armor or hull, so we use tachyon beam as base and color them purple
+
+POINT DEFENSE: point defense is something you only notice when you dont have enough and being surrounded by so many fighter that they blot out the sun, so point defence should only be noticed when important(paladin for example: five beams targeting something, therefore you can conclude that sending fighters and missiles to deal with it will do between nothing and nil), lets use PD laser as base and choose dark red as the color of point defense, so I will reduce the core color of the beam in addition to changeing the beam color to nonsaturated red
+
+//I made this mod for myself as I disagree with the color theory of Lightshow and want to support mods that I use.(also because I noticed Lightshow after I have already writen the mod_info.json...)
